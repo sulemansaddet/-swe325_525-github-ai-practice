@@ -8,7 +8,7 @@
 * **Useful suggestion:** Defined repository as the project container, branch as line of development, commit as a snapshot, pull request as a review proposal, and issue as a task tracker.
 * **Decision:** accepted
 * **Reason:** Provided clear, accurate core concepts used directly in workflow-notes.md.
-* **Related GitHub URL:** https://github.com/sulemansaddet/swe325_525-github-ai-practice/blob/feature/github-ai-workflow/workflow-notes.md
+* **Related GitHub URL:** https://github.com/sulemansaddet/-swe325_525-github-ai-practice/tree/feature/github-ai-workflow
 
 ## AI interaction 2
 * **Date:** 2026-10-10
@@ -18,8 +18,8 @@
 * **Useful suggestion:** Suggested adding specific sections for Purpose, Scope, and Student Author details.
 * **Decision:** revised
 * **Reason:** Adopted the structural sections but customized student and course metadata to match course enrollment.
-* **Related GitHub URL:** https://github.com/sulemansaddet/swe325_525-github-ai-practice/blob/feature/github-ai-workflow/README.md
-
+* **Related GitHub URL:** https://github.com/sulemansaddet/-swe325_525-github-ai-practice/tree/feature/github-ai-workflow
+  
 ## AI interaction 3
 * **Date:** 2026-10-10
 * **Assistant:** Gemini
@@ -28,5 +28,5 @@
 * **Useful suggestion:** Generated a structured markdown checklist corresponding to the 5 observable acceptance criteria and PR template.
 * **Decision:** accepted
 * **Reason:** Matched all rubric requirements directly for the Pull Request description.
-* **Related GitHub URL:** https://github.com/sulemansaddet/swe325_525-github-ai-practice/issues/1
+* **Related GitHub URL:** https://github.com/sulemansaddet/-swe325_525-github-ai-practice/tree/feature/github-ai-workflow
 
