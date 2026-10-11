@@ -26,7 +26,20 @@
 * **Purpose:** Review and Checklist Creation
 * **Prompt or summary:** Help turn my acceptance criteria into a pull-request checklist and suggest a complete PR description format.
 * **Useful suggestion:** Generated a structured markdown checklist corresponding to the 5 observable acceptance criteria and PR template.
-* **Decision:** accepted
-* **Reason:** Matched all rubric requirements directly for the Pull Request description.
-* **Related GitHub URL:** https://github.com/sulemansaddet/-swe325_525-github-ai-practice/tree/feature/github-ai-workflow
 
+## Reflection Questions
+
+1. **Which GitHub action or object was most useful to you, and why?**
+   The Pull Request was most useful because it served as a central hub linking the issue, commits, and AI documentation in one clear review interface.
+
+2. **Which AI suggestion did you accept, and what made it useful?**
+   I accepted the suggested prompt structure and acceptance criteria checklist, which ensured full compliance with all rubric requirements.
+
+3. **Which AI suggestion did you revise or reject, and why?**
+   I revised the file creation commands, opting for direct Markdown file editing to maintain cleaner control over project formatting.
+
+4. **What did you verify yourself instead of trusting the AI?**
+   I manually verified all GitHub repository URLs, commit SHAs, and ensured no text files remained saved with `.txt` extensions.
+
+5. **What would you change in your GitHub workflow next time?**
+   Next time, I would create feature branches and set up issues prior to creating any initial files to maintain complete branch-isolation discipline from step one.
